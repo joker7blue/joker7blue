@@ -30,7 +30,7 @@ As a **SaaS founder**, I bring a "product-first" mindset to every project, focus
 | :--- | :--- |
 | **Frontend** | React, Next.js, Angular, TypeScript, Tailwind CSS, Shadcn UI, Material UI |
 | **Backend** | Node.js, NestJS, Golang (entgo), Python, Java (Spring Boot), GraphQL, REST |
-| **Database** | PostgreSQL, MySQL, NoSQL, Drizzle, Redis [6, 7, 9, 10] |
+| **Database** | PostgreSQL, MySQL, NoSQL, Drizzle, Redis |
 | **DevOps & Cloud** | AWS (S3, SES), Docker, GitHub Actions, Azure CI/CD, Mailcow |
 | **Emerging Tech** | AI-assisted development (GitHub Copilot, LLM APIs), Web3 (Wagmi, Tomo EVM) |
 
